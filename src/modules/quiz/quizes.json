@@ -1,0 +1,295 @@
+{
+    "quizes":[
+        {
+            "id":1,
+            "title":"Algebra",
+            "category":"education",
+            "questions":[
+                {
+                    "questionText":"8x-16=11-x",
+                    "answerOptions": [
+                        { "answerText": "3", "isCorrect": true },
+                        { "answerText": "4", "isCorrect": false },
+                        { "answerText": "5", "isCorrect": false },
+                        { "answerText": "6", "isCorrect": false }
+                    ]
+                },
+                {
+                    "questionText": "4x+7=13+3x",
+                    "answerOptions": [
+                        { "answerText": "2", "isCorrect": false },
+                        { "answerText": "4", "isCorrect": false },
+                        { "answerText": "6", "isCorrect": true },
+                        { "answerText": "8", "isCorrect": false }
+                    ]
+                },
+                {
+                    "questionText": "0.6x=0.48",
+                    "answerOptions": [
+                        { "answerText": "8", "isCorrect": false },
+                        { "answerText": "0.8", "isCorrect": true },
+                        { "answerText": "0.08", "isCorrect": false },
+                        { "answerText": "1.25", "isCorrect": false }
+                    ]
+                },
+                {
+                    "questionText": "Which one satisfies the inequality '5>3x+1'",
+                    "answerOptions": [
+                        { "answerText": "1", "isCorrect": true },
+                        { "answerText": "2", "isCorrect": false },
+                        { "answerText": "3", "isCorrect": false },
+                        { "answerText": "4", "isCorrect": false }
+                    ]
+                },
+                {
+                    "questionText": "9x+4=-11x-12",
+                    "answerOptions": [
+                        { "answerText": "1.25", "isCorrect": false },
+                        { "answerText": "-1.25", "isCorrect": false },
+                        { "answerText": "-0.8", "isCorrect": true },
+                        { "answerText": "0.8", "isCorrect": false }
+                    ]
+                },
+                {
+                    "questionText": "If f(x)=x^2+3x-12, then f(3)=?",
+                    "answerOptions": [
+                        { "answerText": "3", "isCorrect": false },
+                        { "answerText": "6", "isCorrect": true },
+                        { "answerText": "9", "isCorrect": false },
+                        { "answerText": "12", "isCorrect": false }
+                    ]
+                },
+                {
+                    "questionText": "The lines y=2x and 2y=-x are ...",
+                    "answerOptions": [
+                        { "answerText": "parallel", "isCorrect": false },
+                        { "answerText": "horizontal", "isCorrect": false },
+                        { "answerText": "perpendicular", "isCorrect": true },
+                        { "answerText": "vertical", "isCorrect": false }
+                    ]
+                },
+                {
+                    "questionText": "Fifty-four less than two times a number is 40",
+                    "answerOptions": [
+                        { "answerText": "2x-54=40", "isCorrect": true },
+                        { "answerText": "54-2x=40", "isCorrect": false },
+                        { "answerText": "2x-40=54", "isCorrect": false },
+                        { "answerText": "40-2x=54", "isCorrect": false }
+                    ]
+                },
+                {
+                    "questionText": "The price x is at most $150",
+                    "answerOptions": [
+                        { "answerText": "x ≥ $150", "isCorrect": false },
+                        { "answerText": "$150 ≥ x", "isCorrect": true },
+                        { "answerText": "x< $150", "isCorrect": false },
+                        { "answerText": "x< $150", "isCorrect": false }
+                    ]
+                },
+                {
+                    "questionText": "14 more than 13 times a number is 143.",
+                    "answerOptions": [
+                        { "answerText": "14x+13=143", "isCorrect": false },
+                        { "answerText": "13x+143=14", "isCorrect": false },
+                        { "answerText": "13x+14=143", "isCorrect": true },
+                        { "answerText": "14-13x=143", "isCorrect": false }
+                    ]
+                }
+            ]
+        },
+        {
+            "id":2,
+            "title":"History",
+            "category":"education",
+            "questions":[
+                {
+                    "questionText":"In which country Aztec civilization was originated?",
+                    "answerOptions": [
+                        { "answerText": "USA", "isCorrect": false },
+                        { "answerText": "Mexico", "isCorrect": true },
+                        { "answerText": "Egypt", "isCorrect": false },
+                        { "answerText": "France", "isCorrect": false }
+                    ]
+                },
+                {
+                    "questionText": "Machu Picchu is located in ...",
+                    "answerOptions": [
+                        { "answerText": "Peru", "isCorrect": true },
+                        { "answerText": "Rome", "isCorrect": false },
+                        { "answerText": "Barcelona", "isCorrect": false },
+                        { "answerText": "Dakar", "isCorrect": false }
+                    ]
+                },
+                {
+                    "questionText": "Which one is the winged horse in Greek mythology?",
+                    "answerOptions": [
+                        { "answerText": "Chrysaor", "isCorrect": false },
+                        { "answerText": "Perseus", "isCorrect": false },
+                        { "answerText": "Minotaur", "isCorrect": false },
+                        { "answerText": "Pegasus", "isCorrect": true }
+                    ]
+                },
+                {
+                    "questionText": "Which of these astronauts is not in the Apollo 11 crew?",
+                    "answerOptions": [
+                        { "answerText": "Edwin Buzz Aldrin", "isCorrect": false },
+                        { "answerText": "Michael Collins", "isCorrect": false },
+                        { "answerText": "Neil Armstrong", "isCorrect": false },
+                        { "answerText": "Chris Hadfield", "isCorrect": true }
+                    ]
+                },
+                {
+                    "questionText": "Who is the inventor of the printing press?",
+                    "answerOptions": [
+                        { "answerText": "Johannes Gutenberg", "isCorrect": true },
+                        { "answerText": "Eli Whitney", "isCorrect": false },
+                        { "answerText": "Wright Brothers", "isCorrect": false },
+                        { "answerText": "Guglielmo Marconi", "isCorrect": false }
+                    ]
+                },
+                {
+                    "questionText": "___ served as the 10th president of the United States.",
+                    "answerOptions": [
+                        { "answerText": "John Tyler", "isCorrect": true },
+                        { "answerText": "William Henry Harrison", "isCorrect": false },
+                        { "answerText": "James A. Garfield", "isCorrect": false },
+                        { "answerText": "Calvin Coolidge", "isCorrect": false }
+                    ]
+                },
+                {
+                    "questionText": "What is the name of the encryption device used by Germans in WWII?",
+                    "answerOptions": [
+                        { "answerText": "Turing", "isCorrect": false },
+                        { "answerText": "Enigma", "isCorrect": true },
+                        { "answerText": "Citadel", "isCorrect": false },
+                        { "answerText": "Bohr", "isCorrect": false }
+                    ]
+                },
+                {
+                    "questionText": "What is the system of writing invented by Sumerians?",
+                    "answerOptions": [
+                        { "answerText": "Cyrillic Script", "isCorrect": false },
+                        { "answerText": "Cuneiform", "isCorrect": true },
+                        { "answerText": "Hieroglyphs", "isCorrect": false },
+                        { "answerText": "Hebrew", "isCorrect": false }
+                    ]
+                },
+                {
+                    "questionText": "The United States Declaration of Independence was adopted by the Continental Congress on July 4, ____.",
+                    "answerOptions": [
+                        { "answerText": "1776", "isCorrect": true },
+                        { "answerText": "1767", "isCorrect": false },
+                        { "answerText": "1677", "isCorrect": false },
+                        { "answerText": "1676", "isCorrect": false }
+                    ]
+                },
+                {
+                    "questionText": "When and where were the first modern Olympics held in?",
+                    "answerOptions": [
+                        { "answerText": "1986 - Singapore", "isCorrect": false },
+                        { "answerText": "1896 - Athens", "isCorrect": true },
+                        { "answerText": "1896 - Rome", "isCorrect": false },
+                        { "answerText": "1986 - Paris", "isCorrect": false }
+                    ]
+                }
+            ]
+        },
+        {
+            "id":3,
+            "title":"Biology",
+            "category":"education",
+            "questions":[
+                {
+                    "questionText": "What does 'DNA' stand for?",
+                    "answerOptions": [
+                        { "answerText": "Deoxyribonucleic acid", "isCorrect": false },
+                        { "answerText": "Deribonucleic acid", "isCorrect": true },
+                        { "answerText": "Deoxyribonuclear acid", "isCorrect": false },
+                        { "answerText": "Deoxynucleic acid", "isCorrect": false }
+                    ]
+                },
+                {
+                    "questionText": "Adenine always pairs with ",
+                    "answerOptions": [
+                        { "answerText": "Thymine", "isCorrect": false },
+                        { "answerText": "Cytosine", "isCorrect": true },
+                        { "answerText": "Guanine", "isCorrect": false },
+                        { "answerText": "Ribose", "isCorrect": false }
+                    ]
+                },
+                {
+                    "questionText": "All organisms in the kingdom Animalia are",
+                    "answerOptions": [
+                        { "answerText": "Unicellular and heterotrophic", "isCorrect": false },
+                        { "answerText": "Multicellular and heterotrophic", "isCorrect": true },
+                        { "answerText": "Unicellular and autotrophic", "isCorrect": false },
+                        { "answerText": "Multicellular and autotrophic", "isCorrect": false }
+                    ]
+                },
+                {
+                    "questionText": "Which of the following groups would contain the largest number of organisms?",
+                    "answerOptions": [
+                        { "answerText": "Order", "isCorrect": false },
+                        { "answerText": "Family", "isCorrect": true },
+                        { "answerText": "Phylum", "isCorrect": false },
+                        { "answerText": "Class", "isCorrect": false }
+                    ]
+                },
+                {
+                    "questionText": "What do plants and animals have in common?",
+                    "answerOptions": [
+                        { "answerText": "Both are prokaryotic", "isCorrect": false },
+                        { "answerText": "Both are eukaryotic", "isCorrect": true },
+                        { "answerText": "Both are Heterotrophic", "isCorrect": false },
+                        { "answerText": "Both are autotrophic", "isCorrect": false }
+                    ]
+                },
+                {
+                    "questionText": "The number of chromosomes found in an unfertilized human egg cell is:",
+                    "answerOptions": [
+                        { "answerText": "46", "isCorrect": false },
+                        { "answerText": "23", "isCorrect": true },
+                        { "answerText": "12.5", "isCorrect": false },
+                        { "answerText": "92", "isCorrect": false }
+                    ]
+                },
+                {
+                    "questionText": "Normal human males have which of the following sex chromosome combinations?",
+                    "answerOptions": [
+                        { "answerText": "XX", "isCorrect": false },
+                        { "answerText": "OO", "isCorrect": true },
+                        { "answerText": "XO", "isCorrect": false },
+                        { "answerText": "XY", "isCorrect": false }
+                    ]
+                },
+                {
+                    "questionText": "Which order of mammals has the largest number of species?",
+                    "answerOptions": [
+                        { "answerText": "Carnivora", "isCorrect": false },
+                        { "answerText": "Chiroptera", "isCorrect": true },
+                        { "answerText": "Insectivora", "isCorrect": false },
+                        { "answerText": "Rodentia", "isCorrect": false }
+                    ]
+                },
+                {
+                    "questionText": "Which of these is the primary protein found in hair?",
+                    "answerOptions": [
+                        { "answerText": "Fibroin", "isCorrect": false },
+                        { "answerText": "Collagen", "isCorrect": true },
+                        { "answerText": "Elastin", "isCorrect": false },
+                        { "answerText": "Keratin", "isCorrect": false }
+                    ]
+                },
+                {
+                    "questionText": "Biodiversity is greatest in what biome?",
+                    "answerOptions": [
+                        { "answerText": "Rainforest", "isCorrect": false },
+                        { "answerText": "Temperate forest", "isCorrect": true },
+                        { "answerText": "Savanna", "isCorrect": false },
+                        { "answerText": "Taiga", "isCorrect": false }
+                    ]
+                }
+            ]
+        }
+    ]
+}
