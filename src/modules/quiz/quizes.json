@@ -202,16 +202,16 @@
                 {
                     "questionText": "What does 'DNA' stand for?",
                     "answerOptions": [
-                        { "answerText": "Deoxyribonucleic acid", "isCorrect": false },
-                        { "answerText": "Deribonucleic acid", "isCorrect": true },
+                        { "answerText": "Deoxyribonucleic acid", "isCorrect": true },
+                        { "answerText": "Deribonucleic acid", "isCorrect": false },
                         { "answerText": "Deoxyribonuclear acid", "isCorrect": false },
                         { "answerText": "Deoxynucleic acid", "isCorrect": false }
                     ]
                 },
                 {
-                    "questionText": "Adenine always pairs with ",
+                    "questionText": "Adenine always pairs with...",
                     "answerOptions": [
-                        { "answerText": "Thymine", "isCorrect": false },
+                        { "answerText": "Thymine", "isCorrect": true },
                         { "answerText": "Cytosine", "isCorrect": true },
                         { "answerText": "Guanine", "isCorrect": false },
                         { "answerText": "Ribose", "isCorrect": false }
@@ -230,8 +230,8 @@
                     "questionText": "Which of the following groups would contain the largest number of organisms?",
                     "answerOptions": [
                         { "answerText": "Order", "isCorrect": false },
-                        { "answerText": "Family", "isCorrect": true },
-                        { "answerText": "Phylum", "isCorrect": false },
+                        { "answerText": "Family", "isCorrect": false },
+                        { "answerText": "Phylum", "isCorrect": true },
                         { "answerText": "Class", "isCorrect": false }
                     ]
                 },
@@ -257,34 +257,34 @@
                     "questionText": "Normal human males have which of the following sex chromosome combinations?",
                     "answerOptions": [
                         { "answerText": "XX", "isCorrect": false },
-                        { "answerText": "OO", "isCorrect": true },
+                        { "answerText": "OO", "isCorrect": false },
                         { "answerText": "XO", "isCorrect": false },
-                        { "answerText": "XY", "isCorrect": false }
+                        { "answerText": "XY", "isCorrect": true }
                     ]
                 },
                 {
                     "questionText": "Which order of mammals has the largest number of species?",
                     "answerOptions": [
                         { "answerText": "Carnivora", "isCorrect": false },
-                        { "answerText": "Chiroptera", "isCorrect": true },
+                        { "answerText": "Chiroptera", "isCorrect": false },
                         { "answerText": "Insectivora", "isCorrect": false },
-                        { "answerText": "Rodentia", "isCorrect": false }
+                        { "answerText": "Rodentia", "isCorrect": true }
                     ]
                 },
                 {
                     "questionText": "Which of these is the primary protein found in hair?",
                     "answerOptions": [
                         { "answerText": "Fibroin", "isCorrect": false },
-                        { "answerText": "Collagen", "isCorrect": true },
+                        { "answerText": "Collagen", "isCorrect": false },
                         { "answerText": "Elastin", "isCorrect": false },
-                        { "answerText": "Keratin", "isCorrect": false }
+                        { "answerText": "Keratin", "isCorrect": true }
                     ]
                 },
                 {
                     "questionText": "Biodiversity is greatest in what biome?",
                     "answerOptions": [
-                        { "answerText": "Rainforest", "isCorrect": false },
-                        { "answerText": "Temperate forest", "isCorrect": true },
+                        { "answerText": "Rainforest", "isCorrect": true },
+                        { "answerText": "Temperate forest", "isCorrect": false },
                         { "answerText": "Savanna", "isCorrect": false },
                         { "answerText": "Taiga", "isCorrect": false }
                     ]
